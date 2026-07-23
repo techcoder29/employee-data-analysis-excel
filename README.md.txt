@@ -74,7 +74,7 @@ Through this project, I gained practical experience in:
 ## Files Included
 
 * `Employee_Data_Analysis_Dashboard.xlsx` – Complete Excel workbook containing the dataset, analysis, Pivot Tables, dashboard, and insights
-* `dashboard-preview.png` – Preview of the Excel dashboard
+* `EmployeeHR-Dashboard.png` – Preview of the Excel dashboard
 
 ## Conclusion
 
